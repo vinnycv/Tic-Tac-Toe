@@ -1,0 +1,5 @@
+split components into own files
+
+add codepen src files to public dir
+
+check app!
